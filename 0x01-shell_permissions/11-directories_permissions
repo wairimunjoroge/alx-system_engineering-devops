@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d chmod 555
+chmod 555 find . -type d /0x01-shell_permissions
