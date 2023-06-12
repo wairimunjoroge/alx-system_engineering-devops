@@ -4,4 +4,5 @@
 s. display two files
 6. last 10 lines
 7. first 10 lines
-8. pipping    
+8. pipping
+9. create file     
