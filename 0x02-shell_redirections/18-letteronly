@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "^letter" | sort -i 
+grep -i "^letter" /etc/ssh/sshd_config | sort -i 
