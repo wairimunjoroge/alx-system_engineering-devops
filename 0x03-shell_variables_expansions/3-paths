@@ -1,2 +1,2 @@
 #!/bin/bash 
-IFS=:; directories=($PATH); echo "${#directories[@]}"
+IFS=: read -ra directories <<< "$PATH" | echo "${#directories[@]}"
