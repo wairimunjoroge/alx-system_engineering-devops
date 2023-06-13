@@ -1,2 +1,2 @@
 #!/bin/bash 
-find -type d -c $PATH
+IFS=:; directories=($PATH); echo "${#directories[@]}"
