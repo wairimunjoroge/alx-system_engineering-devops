@@ -1,0 +1,2 @@
+#!/bin/bash
+eho $((128+$TRUEKNOWLEDGE))
