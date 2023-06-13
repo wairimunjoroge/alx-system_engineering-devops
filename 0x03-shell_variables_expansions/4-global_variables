@@ -1,2 +1,2 @@
-#!/bin/bash 
-echo env > env_script.sh 
+#!/bin/bash
+printenv
